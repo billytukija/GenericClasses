@@ -56,6 +56,7 @@ namespace GenericClasses
                 if (item != null)
                     Console.WriteLine("Id : " + item.Id + " - " + "Name : " + item.Name);
             }
+
             Console.ReadLine();
         }
     }
