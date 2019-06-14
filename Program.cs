@@ -52,13 +52,10 @@ namespace GenericClasses
             s3.Push(new Product { Id = 3, Name = "Soja", Description = "Bla bla" });
 
             foreach (var item in s3.Itens)
-                Console.WriteLine("Values : " + item.Id);
-
-            //Console.WriteLine("Value s1 : " + s1);
-            //Console.WriteLine("------------------");
-            //Console.WriteLine("Value s2 : " + s2);
-            //Console.WriteLine("------------------");
-            //Console.WriteLine("Value s1 : " + s3);
+            {
+                if (item != null)
+                    Console.WriteLine("Id : " + item.Id + " - " + "Name : " + item.Name);
+            }
             Console.ReadLine();
         }
     }
