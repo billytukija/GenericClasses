@@ -5,3 +5,12 @@ C:\Users\Billy Tukija\Documents\GitHub\GenericClasses\GenericClasses\obj\Debug\G
 C:\Users\Billy Tukija\Documents\GitHub\GenericClasses\GenericClasses\obj\Debug\GenericClasses.csproj.CoreCompileInputs.cache
 C:\Users\Billy Tukija\Documents\GitHub\GenericClasses\GenericClasses\obj\Debug\GenericClasses.exe
 C:\Users\Billy Tukija\Documents\GitHub\GenericClasses\GenericClasses\obj\Debug\GenericClasses.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GenericClasses\bin\Debug\GenericClasses.exe.config
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GenericClasses\bin\Debug\GenericClasses.exe
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GenericClasses\bin\Debug\GenericClasses.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GenericClasses\bin\Debug\EPPlus.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GenericClasses\bin\Debug\EPPlus.xml
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GenericClasses\obj\Debug\GenericClasses.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GenericClasses\obj\Debug\GenericClasses.csproj.CopyComplete
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GenericClasses\obj\Debug\GenericClasses.exe
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\GenericClasses\obj\Debug\GenericClasses.pdb
